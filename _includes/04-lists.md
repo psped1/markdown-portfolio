@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+### These are a few of my favourite things
+- Walking with my friend
+- Whiskey drinking
+- FOSS!
